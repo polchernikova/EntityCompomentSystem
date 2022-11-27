@@ -22,10 +22,8 @@ class SystemManager {
   void EntitySignatureChanged(Entity entity, Signature entity_signature);
 
  private:
-  // component type name -> signature
   std::unordered_map<std::type_index, Signature> signatures_;
 
-  // component type name -> system pointer
   std::unordered_map<std::type_index, std::shared_ptr<System>> systems_;
 };
 

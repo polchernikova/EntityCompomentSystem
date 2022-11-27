@@ -36,10 +36,7 @@ class ComponentManager {
   bool HasComponent(Entity entity);
 
  private:
-  // component type index -> component type
   std::unordered_map<std::type_index, ComponentType> component_types_;
-
-  // component type index -> array of all components of that type
   std::unordered_map<std::type_index,
                      std::shared_ptr<AbstractComponentArray>> component_arrays_;
 

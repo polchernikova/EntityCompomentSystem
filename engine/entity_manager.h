@@ -17,12 +17,8 @@ class EntityManager {
   Signature GetSignature(Entity entity);
 
  private:
-  // unused entity IDs
   std::list<Entity> available_entities_;
 
-  // index == entity ID
   std::array<Signature, constants::kMaxEntities> signatures_{};
-
-  // number of existing entities
   uint32_t living_entity_count_;
 };
