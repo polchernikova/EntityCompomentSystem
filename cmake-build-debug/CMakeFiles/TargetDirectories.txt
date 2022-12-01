@@ -1,0 +1,3 @@
+/home/polchernikova/CLionProjects/Kursach/EntityCompomentSystem/cmake-build-debug/CMakeFiles/EntityCompomentSystem.dir
+/home/polchernikova/CLionProjects/Kursach/EntityCompomentSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/polchernikova/CLionProjects/Kursach/EntityCompomentSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

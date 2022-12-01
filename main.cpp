@@ -1,6 +1,6 @@
 #include <iostream>
 #include <chrono>
-#include "engine/coordinator.h"
+#include "src/coordinator.h"
 #include "components.h"
 #include "test/systems/movement_system.h"
 

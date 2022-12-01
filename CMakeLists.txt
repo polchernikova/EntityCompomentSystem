@@ -9,11 +9,11 @@ include_directories(engine, test)
 
 add_executable(
         EntityCompomentSystem
-        engine/component_manager.cpp
-        engine/coordinator.cpp
-        engine/entity_manager.cpp
-        engine/system.cpp
-        engine/system_manager.cpp
+        src/component_manager.cpp
+        src/coordinator.cpp
+        src/entity_manager.cpp
+        src/system.cpp
+        src/system_manager.cpp
         test/components.h
         test/systems/movement_system.cpp
         main.cpp

@@ -1,0 +1,17 @@
+# ninja log v5
+537	870	1669929813745320564	CMakeFiles/EntityCompomentSystem.dir/engine/entity_manager.cpp.o	e065c1fa9e36a705
+688	1517	1669929814389314817	CMakeFiles/EntityCompomentSystem.dir/engine/system_manager.cpp.o	50090d9098120446
+1	893	1669929813765320386	CMakeFiles/EntityCompomentSystem.dir/engine/coordinator.cpp.o	12a44d0ccef81580
+1	1261	1669930050639206299	CMakeFiles/EntityCompomentSystem.dir/main.cpp.o	342e678cdbedc66c
+2	537	1669929813409323563	CMakeFiles/EntityCompomentSystem.dir/engine/system.cpp.o	c08ce77c555f0098
+1	801	1669930050179210404	CMakeFiles/EntityCompomentSystem.dir/test/systems/movement_system.cpp.o	d58711cf524e2c66
+1261	1380	1669930050759205227	EntityCompomentSystem	1019e7ca13914a55
+1	688	1669929813561322206	CMakeFiles/EntityCompomentSystem.dir/engine/component_manager.cpp.o	85b7323db0f8b29f
+1	403	1669930142090390099	CMakeFiles/EntityCompomentSystem.dir/src/entity_manager.cpp.o	a7d59aa5790ce95
+1	588	1669930142274388457	CMakeFiles/EntityCompomentSystem.dir/src/component_manager.cpp.o	38ba889388eaa963
+0	670	1669930142358387707	CMakeFiles/EntityCompomentSystem.dir/src/coordinator.cpp.o	a1bdc62d130e77e0
+588	1090	1669930142774383995	CMakeFiles/EntityCompomentSystem.dir/src/system.cpp.o	82cd2d42ca5e5589
+403	1218	1669930142902382852	CMakeFiles/EntityCompomentSystem.dir/src/system_manager.cpp.o	d8d41567b1164976
+670	1484	1669930143170380461	CMakeFiles/EntityCompomentSystem.dir/test/systems/movement_system.cpp.o	d58711cf524e2c66
+1090	2344	1669930144026372821	CMakeFiles/EntityCompomentSystem.dir/main.cpp.o	342e678cdbedc66c
+2344	2461	1669930144146371749	EntityCompomentSystem	f31863d40ad7865f
